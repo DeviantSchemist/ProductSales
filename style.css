@@ -109,6 +109,10 @@ h2, form {
   top: -40px;
 }
 
+input {
+  color: black;
+}
+
 .page-title {
   opacity: .75 !important;
 }
